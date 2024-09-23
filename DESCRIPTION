@@ -1,6 +1,6 @@
 Package: tcplfit2
 Title: A Concentration-Response Modeling Utility
-Version: 0.1.6
+Version: 0.1.7
 Authors@R: c(person("Thomas", "Sheffield", role = c("aut")),
 				person("Richard S", "Judson", role = c("ctb"), comment = c(ORCID = "0000-0002-2348-9633")),
 				person("Jason", "Brown", role = "cre", email = "brown.jason@epa.gov", comment = c(ORCID = "0009-0000-2294-641X")),
@@ -23,7 +23,7 @@ Imports: stats, methods, numDeriv, RColorBrewer, stringr, reshape2,
 Depends: R (>= 3.5.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-09-23 12:18:29 UTC; jbrown20
+Packaged: 2024-09-23 12:53:52 UTC; jbrown20
 Author: Thomas Sheffield [aut],
   Richard S Judson [ctb] (<https://orcid.org/0000-0002-2348-9633>),
   Jason Brown [cre] (<https://orcid.org/0009-0000-2294-641X>),
